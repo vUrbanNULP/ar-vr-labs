@@ -1,107 +1,144 @@
 {
   "accessors": [
     {
-      "bufferView": 1,
+      "bufferView": 2,
       "componentType": 5126,
-      "count": 605,
+      "count": 189,
       "max": [
-        4.106790065765381,
-        4.500669956207275,
-        10.012598991394043
+        0.03718820586800575,
+        0.7344380021095276,
+        0.07574497163295746
       ],
       "min": [
-        -2.3907039165496826,
-        -1.6487849950790405,
-        3.9588229656219482
+        -0.00946179497987032,
+        0.5457620024681091,
+        -0.015278029255568981
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2268,
+      "componentType": 5126,
+      "count": 189,
+      "max": [
+        0.9753567576408386,
+        0.878836452960968,
+        0.9604960083961487
+      ],
+      "min": [
+        -0.9823567867279053,
+        -0.6448862552642822,
+        -0.9955343008041382
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 1,
-      "byteOffset": 7260,
       "componentType": 5126,
-      "count": 605,
+      "count": 189,
       "max": [
-        0.9978892803192139,
-        0.929518461227417,
-        0.9911081790924072
+        0.7511109709739685,
+        0.2464669942855835
       ],
       "min": [
-        -0.9988436698913574,
-        -0.9435690641403198,
-        -0.9911081790924072
+        0.6752660274505615,
+        0.21749699115753174
       ],
-      "type": "VEC3"
+      "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 912,
+      "count": 189,
       "type": "SCALAR"
     },
     {
-      "bufferView": 1,
-      "byteOffset": 14520,
+      "bufferView": 2,
+      "byteOffset": 4536,
       "componentType": 5126,
-      "count": 5280,
+      "count": 1790,
       "max": [
-        2.574389934539795,
-        3.1146109104156494,
-        7.63970422744751
+        0.25283920764923096,
+        0.5684559941291809,
+        0.247235968708992
       ],
       "min": [
-        -2.845151901245117,
-        -2.7806780338287354,
-        0.17081399261951447
+        -0.2517828047275543,
+        -0.2444400042295456,
+        -0.25715401768684387
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26016,
+      "componentType": 5126,
+      "count": 1790,
+      "max": [
+        0.99863600730896,
+        0.9989305734634399,
+        0.9964559078216553
+      ],
+      "min": [
+        -0.9932083487510681,
+        -0.9999932050704956,
+        -0.9975890517234802
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 1,
-      "byteOffset": 77880,
+      "byteOffset": 1512,
       "componentType": 5126,
-      "count": 5280,
+      "count": 1790,
       "max": [
-        0.9964064359664917,
-        0.9991745948791504,
-        0.9997403025627136
+        0.7511109709739685,
+        0.4807180166244507
       ],
       "min": [
-        -0.9964064359664917,
-        -0.9992735385894775,
-        -0.9997403025627136
+        0.6269540190696716,
+        0.21749699115753174
       ],
-      "type": "VEC3"
+      "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 3648,
+      "byteOffset": 756,
       "componentType": 5125,
-      "count": 5280,
+      "count": 1791,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "calebcram (https://sketchfab.com/calebcram)",
+      "author": "HanSoloSnipe (https://sketchfab.com/HanSoloSnipe)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/grapes-low-poly-e376f374aabc4a468f033ad78c3eab14",
-      "title": "Grapes - Low Poly"
+      "source": "https://sketchfab.com/3d-models/pear-57673b1e1e3044fda4d562cffdc1c965",
+      "title": "Pear"
     },
-    "generator": "Sketchfab-12.66.0",
+    "generator": "Sketchfab-12.67.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 24768,
+      "byteLength": 7920,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 141240,
-      "byteOffset": 24768,
+      "byteLength": 15832,
+      "byteOffset": 7920,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 47496,
+      "byteOffset": 23752,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -109,64 +146,66 @@
   ],
   "buffers": [
     {
-      "byteLength": 166008,
+      "byteLength": 71248,
       "uri": "scene.bin"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "name": "4CAF50",
+      "name": "Stvol",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.298039,
-          0.686275,
-          0.313726,
+          0.64,
+          0.373333,
+          0.0,
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.8434915419926713
+        "roughnessFactor": 0.9524317153998911
       }
     },
     {
       "doubleSided": true,
-      "name": "673AB7",
+      "name": "Pear",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.403922,
-          0.227451,
-          0.717647,
+          0.834,
+          1.0,
+          0.17,
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.8434915419926713
+        "roughnessFactor": 0.9524317153998911
       }
     }
   ],
   "meshes": [
     {
-      "name": "Object_0",
+      "name": "Pear_Stvol_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
-            "POSITION": 0
+            "POSITION": 0,
+            "TEXCOORD_0": 2
           },
-          "indices": 2,
+          "indices": 3,
           "material": 0,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Object_1",
+      "name": "Pear_Pear_0",
       "primitives": [
         {
           "attributes": {
-            "NORMAL": 4,
-            "POSITION": 3
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
           },
-          "indices": 5,
+          "indices": 7,
           "material": 1,
           "mode": 4
         }
@@ -200,18 +239,66 @@
     },
     {
       "children": [
-        2,
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "6b025f7b381f4d37bbcfa3ede7fa418a.fbx"
+    },
+    {
+      "children": [
         3
       ],
-      "name": "Grapes_01.obj.cleaner.materialmerger.gles"
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.517751115898136e-05,
+        0.0,
+        -6.805476732552052e-05,
+        1.0
+      ],
+      "name": "Pear"
     },
     {
       "mesh": 0,
-      "name": "Object_2"
+      "name": "Pear_Stvol_0"
     },
     {
       "mesh": 1,
-      "name": "Object_3"
+      "name": "Pear_Pear_0"
     }
   ],
   "scene": 0,
