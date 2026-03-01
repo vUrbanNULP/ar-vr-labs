@@ -3,86 +3,198 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 2722,
+      "count": 162,
       "max": [
-        2.113429069519043,
-        2.0691161155700684,
-        6.3283371925354
+        0.8443124294281006,
+        0.9749280214309692,
+        0.743244469165802
       ],
       "min": [
-        -2.1658918857574463,
-        -2.190999984741211,
-        0.0983859971165657
+        -0.8443125486373901,
+        -0.974928081035614,
+        -0.9009688496589661
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 32664,
+      "byteOffset": 1944,
       "componentType": 5126,
-      "count": 2722,
+      "count": 162,
       "max": [
-        0.9891794919967651,
-        0.9973905682563782,
-        1.0
+        1.0,
+        0.8660255670547485,
+        0.968539297580719
       ],
       "min": [
-        -0.9910523891448975,
         -1.0,
-        -1.0
+        -0.8660255074501038,
+        -0.995074450969696
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 2722,
+      "count": 162,
       "max": [
-        0.988161027431488,
-        0.9889330267906189
+        1.0,
+        0.7857142686843872
       ],
       "min": [
-        0.0033360000234097242,
-        0.01206700038164854
+        0.0,
+        0.0
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 4170,
+      "count": 234,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3888,
+      "componentType": 5126,
+      "count": 126,
+      "max": [
+        0.08271997421979904,
+        0.05115596204996109,
+        1.5854196548461914
+      ],
+      "min": [
+        -0.08271998167037964,
+        -0.25284498929977417,
+        0.6316840648651123
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5400,
+      "componentType": 5126,
+      "count": 126,
+      "max": [
+        0.9991337060928345,
+        0.8805177807807922,
+        0.8840713500976563
+      ],
+      "min": [
+        -0.9995169639587402,
+        -0.8683364987373352,
+        -0.3596027195453644
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1296,
+      "componentType": 5126,
+      "count": 126,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        1.4901161193847656e-08,
+        0.7857142686843872
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 936,
+      "componentType": 5125,
+      "count": 180,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6912,
+      "componentType": 5126,
+      "count": 204,
+      "max": [
+        -0.06546672433614731,
+        0.10361046344041824,
+        1.3062987327575684
+      ],
+      "min": [
+        -0.535140872001648,
+        -0.21701309084892273,
+        1.1519582271575928
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 9360,
+      "componentType": 5126,
+      "count": 204,
+      "max": [
+        0.9162991642951965,
+        0.9539852142333984,
+        0.9877340197563171
+      ],
+      "min": [
+        -0.9819483757019043,
+        -0.8809068202972412,
+        -0.9934948086738586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2304,
+      "componentType": 5126,
+      "count": 204,
+      "max": [
+        0.9396636486053467,
+        0.8369799256324768
+      ],
+      "min": [
+        0.8938440680503845,
+        0.8236219882965088
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1656,
+      "componentType": 5125,
+      "count": 330,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "ArbitraryCanary (https://sketchfab.com/ArbitraryCanary)",
+      "author": "Martin3DWork (https://sketchfab.com/Martin3dwork)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/low-poly-vegetable-soup-d83903da681843128b4f8d9e92592be4",
-      "title": "Low Poly Vegetable Soup"
+      "source": "https://sketchfab.com/3d-models/low-poly-apple-7656b9ae0d9542e4b28b817b0e7a2da4",
+      "title": "Low Poly Apple"
     },
-    "generator": "Sketchfab-12.68.0",
+    "generator": "Sketchfab-12.66.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 16680,
+      "byteLength": 2976,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 21776,
-      "byteOffset": 16680,
+      "byteLength": 3936,
+      "byteOffset": 2976,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 65328,
-      "byteOffset": 38456,
+      "byteLength": 11808,
+      "byteOffset": 6912,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -90,37 +202,57 @@
   ],
   "buffers": [
     {
-      "byteLength": 103784,
+      "byteLength": 18720,
       "uri": "scene.bin"
-    }
-  ],
-  "extensionsUsed": [
-    "KHR_materials_unlit"
-  ],
-  "images": [
-    {
-      "uri": "textures/Vegetable_baseColor.png"
     }
   ],
   "materials": [
     {
-      "alphaMode": "BLEND",
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_unlit": {}
-      },
-      "name": "Vegetable",
+      "name": "apple",
       "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 0
-        },
-        "metallicFactor": 0.0
+        "baseColorFactor": [
+          0.8,
+          0.000797446,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9618414254
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "palo",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.128239,
+          0.0276115,
+          0.00844568,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9893515907
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "hoja",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.615177,
+          0.00145626,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9015951803
       }
     }
   ],
   "meshes": [
     {
-      "name": "Object_0",
+      "name": "Esfera_apple_0",
       "primitives": [
         {
           "attributes": {
@@ -130,6 +262,36 @@
           },
           "indices": 3,
           "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Esfera_palo_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Esfera_hoja_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
           "mode": 4
         }
       ]
@@ -164,19 +326,149 @@
       "children": [
         2
       ],
-      "name": "d526b79b75f94fe29d724b17331e15dd.obj.cleaner.materialmerger.gles"
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "aa1034cfa8fb4f7b96dd93ee811e42ba.fbx"
+    },
+    {
+      "children": [
+        3,
+        6,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -29.08647719990347,
+        -5.518906457566863,
+        -95.51711910171437,
+        0.0,
+        56.63930913109449,
+        79.46723428563203,
+        -21.83912397841966,
+        0.0,
+        77.11008775993375,
+        -60.45246356562044,
+        -19.98834696773717,
+        0.0,
+        407.6245422363281,
+        590.38623046875,
+        -100.54539489746094,
+        1.0
+      ],
+      "name": "Light"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "name": "Object_5"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        -65.15581009765468,
+        -44.527143038140764,
+        -61.41704928909654,
+        0.0,
+        -32.40135466989878,
+        89.5395708958271,
+        -30.542085476036902,
+        0.0,
+        68.59207001076176,
+        1.2755314797120858e-05,
+        -72.76761921184276,
+        0.0,
+        735.88916015625,
+        495.8309326171875,
+        692.5791015625,
+        1.0
+      ],
+      "name": "Camera"
+    },
+    {
+      "name": "Object_7"
+    },
+    {
+      "children": [
+        9,
+        10,
+        11
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Esfera"
     },
     {
       "mesh": 0,
-      "name": "Object_2"
-    }
-  ],
-  "samplers": [
+      "name": "Esfera_apple_0"
+    },
     {
-      "magFilter": 9729,
-      "minFilter": 9987,
-      "wrapS": 10497,
-      "wrapT": 10497
+      "mesh": 1,
+      "name": "Esfera_palo_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Esfera_hoja_0"
     }
   ],
   "scene": 0,
@@ -186,12 +478,6 @@
       "nodes": [
         0
       ]
-    }
-  ],
-  "textures": [
-    {
-      "sampler": 0,
-      "source": 0
     }
   ]
 }
